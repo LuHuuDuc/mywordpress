@@ -12,7 +12,7 @@
 	<atom:link href="https://luhuuduc.github.io/mywordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://luhuuduc.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 13 Sep 2022 13:36:57 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 14 Sep 2022 13:39:12 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -55,7 +55,7 @@
 				<category><![CDATA[Chưa phân loại]]></category>
 		<guid isPermaLink="false">https://luhuuduc.github.io/mywordpress/?p=77</guid>
 
-					<description><![CDATA[Home Home-child Home-child Shop Shop-child Shop-child Pages Page-child Page-child Blog Blog-child Blog-child Contact Contact-child Contact-child 0 Login/Register Shop Now Premium Organic Tea You Can Feel Good About Because life is too short for average tea The world&#8217;s  freshest tea Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et [&#8230;]]]></description>
+					<description><![CDATA[Home Home-child Home-child Blog Blog-child Blog-child 0 Login/Register Shop Now Premium Organic Tea You Can Feel Good About Because life is too short for average tea The world&#8217;s  freshest tea Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis [&#8230;]]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="77" class="elementor elementor-77">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-b2cd869 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b2cd869" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -74,16 +74,16 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-06cddcb elementor-absolute eael_simple_menu_hamburger_disable_selected_menu_no eael-simple-menu-hamburger-align-eael-simple-menu-hamburger-align-right elementor-widget elementor-widget-eael-simple-menu" data-id="06cddcb" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="eael-simple-menu.default">
 				<div class="elementor-widget-container">
-			<div data-hamburger-icon="&lt;i aria-hidden=&quot;true&quot; class=&quot;fas fa-bars&quot;&gt;&lt;/i&gt;" data-indicator-class="fas fa-plus" data-dropdown-indicator-class="fas fa-angle-down" class="eael-simple-menu-container eael-simple-menu-align-left eael-simple-menu-dropdown-align-left preset-1"><ul id="menu-mainmenu" class="eael-simple-menu eael-simple-menu-dropdown-animate-to-top eael-simple-menu-indicator eael-simple-menu-horizontal"><li id="menu-item-611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-611"><a href="https://luhuuduc.github.io/mywordpress/">Home</a>
+			<div data-hamburger-icon="&lt;i aria-hidden=&quot;true&quot; class=&quot;fas fa-bars&quot;&gt;&lt;/i&gt;" data-indicator-class="fas fa-plus" data-dropdown-indicator-class="fas fa-angle-down" class="eael-simple-menu-container eael-simple-menu-align-left eael-simple-menu-dropdown-align-left preset-1"><ul id="menu-mainmenu" class="eael-simple-menu eael-simple-menu-dropdown-animate-to-top eael-simple-menu-indicator eael-simple-menu-horizontal"><li id="menu-item-678" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-678"><a href="https://luhuuduc.github.io/mywordpress/">Home</a>
 <ul class="sub-menu">
-	<li id="menu-item-615" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-615"><a href="https://luhuuduc.github.io/mywordpress/home-child/">Home-child</a></li>
-	<li id="menu-item-623" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-623"><a href="https://luhuuduc.github.io/mywordpress/home-child/">Home-child</a></li>
+	<li id="menu-item-682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-682"><a href="https://luhuuduc.github.io/mywordpress/home-child/">Home-child</a></li>
+	<li id="menu-item-690" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-690"><a href="https://luhuuduc.github.io/mywordpress/home-child/">Home-child</a></li>
 </ul>
 </li>
-<li id="menu-item-617" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-617"><a href="https://luhuuduc.github.io/mywordpress/blog/">Blog</a>
+<li id="menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-684"><a href="https://luhuuduc.github.io/mywordpress/blog/">Blog</a>
 <ul class="sub-menu">
-	<li id="menu-item-618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-618"><a href="https://luhuuduc.github.io/mywordpress/blog-child/">Blog-child</a></li>
-	<li id="menu-item-619" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-619"><a href="https://luhuuduc.github.io/mywordpress/blog-child/">Blog-child</a></li>
+	<li id="menu-item-685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-685"><a href="https://luhuuduc.github.io/mywordpress/blog-child/">Blog-child</a></li>
+	<li id="menu-item-686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-686"><a href="https://luhuuduc.github.io/mywordpress/blog-child/">Blog-child</a></li>
 </ul>
 </li>
 </ul></div>		</div>
@@ -715,7 +715,7 @@
 					<div class="elementor-button-wrapper">
 			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text"><div>Gorgeous Silk Chair</div> </br> <i class="fa sao fa-star active" aria-hidden="true"></i><i class="fa sao fa-star active" aria-hidden="true"></i><i class="fa sao fa-star active" aria-hidden="true"></i><i class="fa sao fa-star active" aria-hidden="true"></i><i class="fa fa-star saoden active" aria-hidden="true"></i> </br></br> <span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>37.63</bdi></span></span></span>
+						<span class="elementor-button-text"><div>Gorgeous Silk Chair</div> </br> <i class="fa sao fa-star active" aria-hidden="true"></i><i class="fa sao fa-star active" aria-hidden="true"></i><i class="fa sao fa-star active" aria-hidden="true"></i><i class="fa sao fa-star active" aria-hidden="true"></i><i class="fa fa-star saoden active" aria-hidden="true"></i> <br><br> <span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>37.63</bdi></span></span></span>
 		</span>
 					</a>
 		</div>
@@ -726,7 +726,7 @@
 					<div class="elementor-button-wrapper">
 			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text"><div>Gorgeous Cotton Shirt</div> </br> <i class="fa sao fa-star active" aria-hidden="true"></i><i class="fa sao fa-star active" aria-hidden="true"></i><i class="fa sao fa-star active" aria-hidden="true"></i><i class="fa sao fa-star active" aria-hidden="true"></i><i class="fa fa-star sao active" aria-hidden="true"></i> </br></br> <span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>11.14</bdi></span></span></span>
+						<span class="elementor-button-text"><div>Gorgeous Cotton Shirt</div> </br> <i class="fa sao fa-star active" aria-hidden="true"></i><i class="fa sao fa-star active" aria-hidden="true"></i><i class="fa sao fa-star active" aria-hidden="true"></i><i class="fa sao fa-star active" aria-hidden="true"></i><i class="fa fa-star sao active" aria-hidden="true"></i> <br><br> <span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>11.14</bdi></span></span></span>
 		</span>
 					</a>
 		</div>
@@ -737,7 +737,7 @@
 					<div class="elementor-button-wrapper">
 			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text"><div>Small Steel Lamp</div> </br> <i class="fa sao fa-star active" aria-hidden="true"></i><i class="fa sao fa-star active" aria-hidden="true"></i><i class="fa sao fa-star active" aria-hidden="true"></i><i class="fa saoden fa-star active" aria-hidden="true"></i><i class="fa fa-star saoden active" aria-hidden="true"></i> </br></br> <span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>58.25 - <span class="woocommerce-Price-currencySymbol">$</span>563.10</bdi></span></span></span>
+						<span class="elementor-button-text"><div>Small Steel Lamp</div> </br> <i class="fa sao fa-star active" aria-hidden="true"></i><i class="fa sao fa-star active" aria-hidden="true"></i><i class="fa sao fa-star active" aria-hidden="true"></i><i class="fa saoden fa-star active" aria-hidden="true"></i><i class="fa fa-star saoden active" aria-hidden="true"></i> <br><br> <span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>58.25 - <span class="woocommerce-Price-currencySymbol">$</span>563.10</bdi></span></span></span>
 		</span>
 					</a>
 		</div>
@@ -748,7 +748,7 @@
 					<div class="elementor-button-wrapper">
 			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text"><div>Gorgeous Linen Computer</div> </br> <i class="fa sao fa-star active" aria-hidden="true"></i><i class="fa saoden fa-star active" aria-hidden="true"></i><i class="fa saoden fa-star active" aria-hidden="true"></i><i class="fa saoden fa-star active" aria-hidden="true"></i><i class="fa fa-star saoden active" aria-hidden="true"></i> </br></br> <span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>93.46 - <span class="woocommerce-Price-currencySymbol">$</span>936.66</bdi></span></span></span>
+						<span class="elementor-button-text"><div>Gorgeous Linen Computer</div> </br> <i class="fa sao fa-star active" aria-hidden="true"></i><i class="fa saoden fa-star active" aria-hidden="true"></i><i class="fa saoden fa-star active" aria-hidden="true"></i><i class="fa saoden fa-star active" aria-hidden="true"></i><i class="fa fa-star saoden active" aria-hidden="true"></i> <br><br> <span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>93.46 - <span class="woocommerce-Price-currencySymbol">$</span>936.66</bdi></span></span></span>
 		</span>
 					</a>
 		</div>
